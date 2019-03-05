@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="BingWallpaper/src/|mvn/wallpaper/src/main/java/|mvn/wallpaper/src/test/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="BingWallpaper/src"/>
+	<classpathentry kind="src" path="mvn/wallpaper/src/main/java"/>
+	<classpathentry kind="src" path="mvn/wallpaper/src/test/java"/>
+	<classpathentry kind="output" path="BingWallpaper/bin"/>
+</classpath>
